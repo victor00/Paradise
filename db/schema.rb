@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(version: 2021_05_24_193524) do
   create_table "messages", force: :cascade do |t|
     t.text "content"
     t.string "image_link"
+    t.datetime "time_sent"
     t.bigint "user_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -43,7 +44,6 @@ ActiveRecord::Schema.define(version: 2021_05_24_193524) do
 
   create_table "week_points", force: :cascade do |t|
     t.datetime "week"
-    t.datetime "timestamp"
     t.integer "points"
     t.bigint "user_id", null: false
     t.datetime "created_at", precision: 6, null: false

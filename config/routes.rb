@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  scope '/api', defaults: { format: :json } do
+    resources :users, only: %i[index create show]
+    resources :messages, only: %i[index create show]
+    resources :week_points, only: %i[index create show]
+  end
 end

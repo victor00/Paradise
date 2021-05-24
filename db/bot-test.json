@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "158342860582813696",
+    "name": "Paradise",
+    "iconUrl": "https://cdn.discordapp.com/icons/158342860582813696/23122a7df7f399a61ca6ba7d08dd5d40.png"
+  },
+  "channel": {
+    "id": "846455751978909796",
+    "type": "GuildTextChat",
+    "categoryId": "644224027694465047",
+    "category": "\uD83D\uDD30 | Paradise Guild",
+    "name": "bot-test",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "846470059743641650",
+      "type": "Default",
+      "timestamp": "2021-05-24T19:29:48.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Victor",
+      "author": {
+        "id": "142712915701530624",
+        "name": "Atraides",
+        "discriminator": "2177",
+        "nickname": "di3rn, Dierno e Stervict",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/142712915701530624/9e6d4a97df997a91a6575ecd85348472.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "152902089863856138",
+          "name": "Victor",
+          "discriminator": "5250",
+          "nickname": "BloodyKnight",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "846470305076477983",
+      "type": "Default",
+      "timestamp": "2021-05-24T19:30:47.388+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5k/5k",
+      "author": {
+        "id": "152902089863856138",
+        "name": "Victor",
+        "discriminator": "5250",
+        "nickname": "BloodyKnight",
+        "color": "#00F3E7",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/152902089863856138/b857a545bbb6a5ed39ed5d5e01d66a68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846470312602107914",
+      "type": "Default",
+      "timestamp": "2021-05-24T19:30:49.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "152902089863856138",
+        "name": "Victor",
+        "discriminator": "5250",
+        "nickname": "BloodyKnight",
+        "color": "#00F3E7",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/152902089863856138/b857a545bbb6a5ed39ed5d5e01d66a68.png"
+      },
+      "attachments": [
+        {
+          "id": "846470312089616388",
+          "url": "https://cdn.discordapp.com/attachments/846455751978909796/846470312089616388/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 2515950
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

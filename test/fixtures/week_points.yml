@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week: 2021-05-24 16:24:59
+  timestamp: 2021-05-24 16:24:59
+  points: 1
+  user: one
+
+two:
+  week: 2021-05-24 16:24:59
+  timestamp: 2021-05-24 16:24:59
+  points: 1
+  user: two
